@@ -1,0 +1,48 @@
+#Code for the title of Goldmine.
+
+while 1 > 0:
+	a = "________"; b = "||||    "; c = "IIII    "; d = "qqqq"; e = "        ";
+	f = "GOLDMINE"; g = "{ }";
+	print(a * 8)
+	print(c * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(b * 8)
+	print(c * 8)
+	print(a * 8)
+	print(e * 8)
+	print(e * 8)
+	print("                                   " + g + "  " + "      " + g)
+	print("                                 " + g + "  " + f + "  " + g)
+	print("                                   " + g + "  " + "      " + g)
+	h = str(input("Want to play? (Y or N)"))
+	if h == "Y":
+		print("O.K.")
+		print("Let's begin!")
+		print(e * 8)
+		print(e * 8)
+		aa = str(input("Please enter your name: "))
+		print(aa)
+		ab = str(input("Is this name correct? : (Y or N)"))
+		while ab == "N":
+			ab = str(input("Please enter your name: "))
+	if h =="N":
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print(e * 8)
+		print("B.Y.E.")
