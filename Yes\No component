@@ -1,0 +1,80 @@
+if 1 > 0:
+	mem = []
+	day1 = str(input("Day 1 of 7:  Will you go into the mine today? : "))
+	if day1.count("yes") > 0:
+		print(day1)
+		print("ok!")
+		mem.append(day1)
+	if day1.count("no") > 0:
+		print(day1)
+		print("ok!")
+		mem.append(day1)
+	day2 = str(input("Day 2 of 7:  Will you go into the mine today? : "))
+	if day2.count("yes") > 0:
+		print(day2)
+		print("ok!")
+		mem.append(day2)
+	if day2.count("no") > 0:
+		print(day2)
+		print("ok!")
+		mem.append(day2)
+	day3 = str(input("Day 3 of 7:  Will you go into the mine today? : "))
+	if day3.count("yes") > 0:
+		print(day3)
+		print("ok!")
+		mem.append(day3)
+	if day3.count("no") > 0:
+		print(day4)
+		print("ok!")
+		mem.append(day3)
+	day4 = str(input("Day 4 of 7:  Will you go into the mine today? : "))
+	if day4.count("yes") > 0:
+		print(day4)
+		print("ok!")
+		mem.append(day4)
+	if day4.count("no") > 0:
+		print(day4)
+		print("ok!")
+		mem.append(day4)
+	day5 = str(input("Day 5 of 7:  Will you go into the mine today? : "))
+	if day5.count("yes") > 0:
+		print(day5)
+		print("ok!")
+		mem.append(day5)
+	if day5.count("no") > 0:
+		print(day5)
+		print("ok!")
+		mem.append(day5)
+	day6 = str(input("Day 6 of 7:  Will you go into the mine today? : "))
+	if day6.count("yes") > 0:
+		print(day6)
+		print("ok!")
+		mem.append(day6)
+		print(mem)
+	if day6.count("no") > 0:
+		print(day6)
+		print("ok!")
+		mem.append(day6)
+	day7 = str(input("Day 7 of 7:  Will you go into the mine today? : "))
+	if day7.count("yes") > 0:
+		print(day7)
+		print("ok!")
+		mem.append(day7)
+		print(mem)
+	if day7.count("no") > 0:
+		print(day7)
+		print("ok!")
+		mem.append(day7)
+	#Note: I will get rid of print(mem) above, and probably also the spare print(day#).
+	if len(mem) == 1:
+		print("lol!")
+	if len(mem) == 2:
+		print("omgomg!")
+	if len(mem) == 3:
+		print("Happy!")
+	if len(mem) == 4:
+		print("hun")
+	if len(mem) == 5:
+		print("okF!")
+	if len(mem) == 6:
+		print("testet!!1")
