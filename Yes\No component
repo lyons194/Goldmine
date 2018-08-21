@@ -78,3 +78,7 @@ if 1 > 0:
 		print("okF!")
 	if len(mem) == 6:
 		print("testet!!1")
+	"""Note:  depending on how many times the game's user decides to enter the mine, they take more chances to earn gold.
+	However, each time that they enter the mine could, in fact, be dangerous, and the user runs the risk of losing gold as well 
+	as gaining gold"""
+	
