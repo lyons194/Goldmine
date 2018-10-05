@@ -1,0 +1,37 @@
+#Below is a lsiting of items\animals\events that are found in the mine, their respective values\outcomes, and the likelihood that the user will encounter such an item\animals\events.
+
+
+
+
+ITEMS
+
+1.) Gold  |  value == 1  |  5% chance of acquiring item.
+2.) Fool's Gold  |  value == 0  |  20% chance of acquiring item.
+.
+.
+.
+n.) Diamond  |  infinitely valuable  |  1% chance of acquiring item.  |  The user automatically wins the game if they find a diamond.
+
+
+
+ANIMALS
+
+1.) Snake
+2.) Spider
+.
+.
+n.) 
+
+
+
+EVENTS
+
+1.) Thunderstorm
+2.) Flood
+3.) Strike  |  
+4.)
+5.)
+.
+.
+.
+n.) Mine Collapse  |  1% chance of this occuring.  |  Everyone dies and the entire game restarts.
