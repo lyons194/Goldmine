@@ -1,5 +1,4 @@
 #Code for the title of Goldmine.
-
 while 1 > 0:
 	a = "________"; b = "||||    "; c = "IIII    "; d = "qqqq"; e = "        ";
 	f = "GOLDMINE"; g = "{ }";
@@ -46,3 +45,4 @@ while 1 > 0:
 		print(e * 8)
 		print(e * 8)
 		print("B.Y.E.")
+		#End of the program for now.
