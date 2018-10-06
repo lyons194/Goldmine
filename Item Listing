@@ -5,20 +5,24 @@
 
 ITEMS
 
-1.) Gold  |  value == 1  |  5% chance of acquiring item.
-2.) Fool's Gold  |  value == 0  |  20% chance of acquiring item.
+1.)  GOLD  |  value == 1  |  5% chance of acquiring item.
+2.)  FOOL'S GOLD  |  value == 0  |  20% chance of acquiring item.
+3.)  Fossil
+4.)  Clay
+5.)  
+
+
+
 .
-.
-.
-n.) Diamond  |  infinitely valuable  |  1% chance of acquiring item.  |  The user automatically wins the game if they find a diamond.
+n.) DIAMOND  |  infinitely valuable  |  1% chance of acquiring item.  |  The user automatically wins the game if they find a diamond.
 
 
 
 ANIMALS
 
-1.) Snake
-2.) Spider
-.
+1.) SNAKE  | -5 HP  |  10% chance of encountering a snake  |
+2.) SPIDER  | -3 HP  |  10% chance of encountering a spider  |
+3.) RAT  | -3 HP  |  |
 .
 n.) 
 
@@ -28,7 +32,7 @@ EVENTS
 
 1.) Thunderstorm
 2.) Flood
-3.) Strike  |  
+3.) Worker's Strike  |  
 4.)
 5.)
 .
