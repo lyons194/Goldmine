@@ -1,41 +1,61 @@
 #Below is a lsiting of items\animals\events that are found in the mine, their respective values\outcomes, and the likelihood that the user will encounter such an item\animals\events.
 
-
-
-
+...............
 ITEMS
 
-1.)  GOLD  |  value == 1  |  5% chance of acquiring item.
+1.)  GOLD  |  value == 1  |  7% chance of acquiring item.
+
 2.)  FOOL'S GOLD  |  value == 0  |  20% chance of acquiring item.
-3.)  Fossil
-4.)  Clay
-5.)  
 
+3.)  FOSSIL  |  value == variable  |  10% chance of acquiring item.
 
+4.)  CLAY  |  value == not much, but not worthless  |  10% chance of acquiring item.
 
+5.)  RUBY
+
+6.)  OPAL  | 
+
+7.)  QUARTZ  |  really valuable  |  5% chance of acquiring item.  |
+
+8.)  GEODE  |  really valuable  |  5% chance of acquiring item.  |  
+
+9.)  
+
+10.)  DIAMOND  |  very valuable  |  3% chance of acquiring item.  |  The user automatically wins the game if they find a diamond.
+
+n.)  PREHISTORIC CAVE PAINTING  | incredibly valuable  |  1% chance of acquiring item  |  The user automatically wins the game if they find a cave painting.
+...............
+#
+...............
+ANIMALS \ THREATS
+
+1.)  SNAKE  |  -5 HP  |  10% chance of encountering a snake  
+2.)  SPIDER  |  -3 HP  |  10% chance of encountering a spider  
+3.)  RAT  |  -3 HP  |  
+4.)  Bat  |  -5 HP  |  10% chance of encountering a bat  |  
+5.)  Beetle  |  -2 HP  |  10% chance of encountering a beetle  |
+6.)  Fox  |  -3 HP  |  10% chance of encountering a fox  |
+7.)  
+8.)
 .
-n.) DIAMOND  |  infinitely valuable  |  1% chance of acquiring item.  |  The user automatically wins the game if they find a diamond.
-
-
-
-ANIMALS
-
-1.) SNAKE  | -5 HP  |  10% chance of encountering a snake  |
-2.) SPIDER  | -3 HP  |  10% chance of encountering a spider  |
-3.) RAT  | -3 HP  |  |
 .
 n.) 
-
-
-
+...............
+#
+...............
 EVENTS
 
-1.) Thunderstorm
-2.) Flood
-3.) Worker's Strike  |  
-4.)
+1.)  Thunderstorm  |  increases the likelihood that you will encounter animals (because more go to the cave to hide).  |  5% chance of this happening.
+
+2.)  Flood  |  floods certain portions of the cave.  If you enter the cave during a flood, there is a higher chance that you will drown (and die, resetting the game).  However, this decreases the likelihood of encountering animals, washes away all valuable 
+
+3.)  Worker's Strike  |  Prevents you from entering the mine (for only one day).  |  5% chance of this occuring.  
+
+4.)  
+
 5.)
 .
 .
 .
-n.) Mine Collapse  |  1% chance of this occuring.  |  Everyone dies and the entire game restarts.
+n.) Mine Collapse  |  Everyone dies and the entire game restarts.  |  1% chance of this occuring.
+...............
