@@ -31,7 +31,7 @@ ANIMALS \ THREATS
 
 1.)  SNAKE  |  -5 HP  |  10% chance of encountering a snake  
 2.)  SPIDER  |  -3 HP  |  10% chance of encountering a spider  
-3.)  RAT  |  -3 HP  |  
+3.)  RAT  |  -3 HP  |  10% chance of encountering a rat.
 4.)  Bat  |  -5 HP  |  10% chance of encountering a bat  |  
 5.)  Beetle  |  -2 HP  |  10% chance of encountering a beetle  |
 6.)  Fox  |  -3 HP  |  10% chance of encountering a fox  |
